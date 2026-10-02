@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a5a5a&height=200&section=header&text=Hey%20I'm%20Nandu%20%F0%9F%8E%90&fontSize=70&fontColor=ffffff&fontAlignY=40" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=280&section=header&text=Hey%20I'm%20Nandu%20%F0%9F%8E%90&fontSize=70&fontColor=ffffff&fontAlignY=40" width="100%" />
 
 ### Data Engineering | SQL | Python | ETL Pipelines
 
@@ -31,7 +31,7 @@ I am a final year student at **Sanghamitra Degree College, Osmania University**,
 
 
 
-### Databases & Data Tools
+### Database & Data Tools
 
 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,58 +39,16 @@ I am a final year student at **Sanghamitra Degree College, Osmania University**,
 
 
 
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
 
 
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 
-
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
-
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-### Big Data & Cloud
-
-
-![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-
-
-
-![Apache Airflow](https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-
-
-
-![Apache Kafka](https://img.shields.io/badge/KAFKA-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-
-
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
-
-
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-
-
-### Tools & Visualization
+### Tools
 
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -107,13 +65,33 @@ I am a final year student at **Sanghamitra Degree College, Osmania University**,
 
 
 
+---
 
-![Power BI](https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## ୨⎯ Currently Learning ⎯୧
+
+
+
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 
 
-![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
+![Apache Spark](https://img.shields.io/badge/APACHE%20SPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+
+
+
+![Apache Airflow](https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+
+
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 
@@ -132,4 +110,4 @@ I am a final year student at **Sanghamitra Degree College, Osmania University**,
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a5a5a&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=180&section=footer" width="100%" />
